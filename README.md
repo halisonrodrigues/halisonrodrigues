@@ -34,5 +34,6 @@
 ###
 
 <img src="https://raw.githubusercontent.com/halisonrodrigues/halisonrodrigues/refs/heads/main/snake.svg" />
+<img align= "center" />
 
 ###
