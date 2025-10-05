@@ -33,6 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/halisonrodrigues/halisonrodrigues/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/halisonrodrigues/halisonrodrigues/refs/heads/main/snake.svg" />
 
 ###
